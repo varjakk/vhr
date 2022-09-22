@@ -12,4 +12,4 @@ npm install
 npm run dev
 ```
 ## 项目部署
-该项目已部署在vhr.varjak.cn上，后续会把部署教程发布在[个人博客](https://www.varjak.cn)里
+该项目已部署在[vhr.varjak.cn](https://vhr.varjak.cn)上，后续会把部署教程发布在[个人博客](https://www.varjak.cn)里
